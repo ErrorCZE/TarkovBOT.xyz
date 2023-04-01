@@ -1,0 +1,470 @@
+{
+    "DEL_TITLE": {
+        "english": "This command is deprecated and will be deleted (soon)",
+        "arabic": "هذا الأمر مهمل وسيتم حذفه (قريبًا)",
+        "czech": "Tento příkaz je zastaralý a bude brzo smazán",
+        "newlang": "untranslated"
+    },
+    "DEL_DESC": {
+        "english": "Use the slash command instead -> ",
+        "arabic": "استخدم الأمر '/' بدلاً من ذلك -> ",
+        "czech": "Použij místo toho slash příkaz -> ",
+        "newlang": "untranslated"
+    },
+    "GHIST_TITLE": {
+        "english": "History of goons location",
+        "arabic": "History of goons location",
+        "czech": "Historie lokací Goons",
+        "newlang": "untranslated"
+    },
+    "GHIST_DESC1": {
+        "english": "Time is in the CET time zone",
+        "arabic": "Time is in the CET time zone",
+        "czech": "Čas je udáván v CET",
+        "newlang": "untranslated"
+    },
+    "GHIST_DESC2": {
+        "english": "History contains only movements between maps, not all reports",
+        "arabic": "History contains only movements between maps, not all reports",
+        "czech": "Historie obsahuje pouze přesuny mezi mapama, nikoliv všechny hlášení",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_WEAPON_MELEE": {
+        "english": "Any melee weapon",
+        "arabic": "أي سلاح أبيض",
+        "czech": "Jakákoli zbraň pro boj zblízka",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_TRADERSLLONE": {
+        "english": "Traders LL 1",
+        "arabic": "التجار المستوى 1",
+        "czech": "Obchodníci LL 1",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_TRADERSLLTWO": {
+        "english": "Traders LL 2",
+        "arabic": "التجار المستوى 2",
+        "czech": "Obchodníci LL 2",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_TRADERSLLTHREE": {
+        "english": "Traders LL 3",
+        "arabic": "التجار المستوى 3",
+        "czech": "Obchodníci LL 3",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_TRADERSLLFOUR": {
+        "english": "Traders LL 4",
+        "arabic": "التجار المستوى 4",
+        "czech": "Obchodníci LL 4",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_FLEAMARKET": {
+        "english": "FleaMarket",
+        "arabic": "السوق السوداء",
+        "czech": "Bleší trh",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_JOKERCARD_NONVG": {
+        "english": "Night raid without NVG",
+        "arabic": "غارة ليلية بدون رؤية ليلية",
+        "czech": "Noční raid bez NVG",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_JOKERCARD_MEDICINESLLONE": {
+        "english": "Medicines LL 1",
+        "arabic": "الأدوية 1",
+        "czech": "Medikamenty LL 1",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_JOKERCARD_ONEMAG": {
+        "english": "Only 1 magazine (in weapon)",
+        "arabic": "مخزن واحد فقط (في السلاح)",
+        "czech": "Pouze 1 zásobník (ve zbrani)",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_JOKERCARD_NOFULLAUTO": {
+        "english": "Without fullauto",
+        "arabic": "بدون الوضع التلقائي الكامل",
+        "czech": "Bez automatu",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_JOKERCARD_NOMEDS": {
+        "english": "Without medicines",
+        "arabic": "بدون أدوية",
+        "czech": "Bez léků",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_JOKERCARD_NOKEYS": {
+        "english": "Without keys",
+        "arabic": "بـدون مفاتيـح",
+        "czech": "Bez klíčů",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TITLE": {
+        "english": "Random gear",
+        "arabic": "معدات عشـوائية",
+        "czech": "Náhodná výbava",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_WEAPON": {
+        "english": "Weapon",
+        "arabic": "سلاح",
+        "czech": "Zbraň",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_HELMET": {
+        "english": "Helmet",
+        "arabic": "خـوذة",
+        "czech": "Přilba",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_ARMOR": {
+        "english": "Armor",
+        "arabic": "درع",
+        "czech": "Armor",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_RIG": {
+        "english": "Rig",
+        "arabic": "سترة الصدر",
+        "czech": "Vesta",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_BP": {
+        "english": "Backpack",
+        "arabic": "حقيبة ظهر",
+        "czech": "Batoh",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_WM": {
+        "english": "Weapon mods.",
+        "arabic": "تعديل السلاح",
+        "czech": "Modifikace zbraní",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_AMMO": {
+        "english": "Ammunition",
+        "arabic": "الذخـيرة",
+        "czech": "Munice",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_MAP": {
+        "english": "Map",
+        "arabic": "الخـريطة",
+        "czech": "Mapa",
+        "newlang": "untranslated"
+    },
+    "CMD_RANDOMGEAR_TEXT_JOKERCARD": {
+        "english": "Joker Card",
+        "arabic": "بطاقة الجوكر",
+        "czech": "Joker Card",
+        "newlang": "untranslated"
+    },
+    "CMD_WEATHER_TITLE": {
+        "english": "Current weather in Tarkov",
+        "arabic": "الطقس الحالي في تاركوف",
+        "czech": "Aktuální počasí v Tarkovu",
+        "newlang": "untranslated"
+    },
+    "CMD_WEATHER_RAIN": {
+        "english": "Rain",
+        "arabic": "تمطر",
+        "czech": "Prší",
+        "newlang": "untranslated"
+    },
+    "CMD_WEATHER_SUN": {
+        "english": "Sun",
+        "arabic": "شمس",
+        "czech": "Slunečno",
+        "newlang": "untranslated"
+    },
+    "CMD_WEATHER_FOG": {
+        "english": "Fog",
+        "arabic": "ضباب",
+        "czech": "Mlha",
+        "newlang": "untranslated"
+    },
+    "CMD_WEATHER_TEXT_WEATHERUPDATED": {
+        "english": "Weather data updated",
+        "arabic": "تم تحديث بيانات الطقس",
+        "czech": "Data o počasí aktualizována",
+        "newlang": "untranslated"
+    },
+    "CMD_WEATHER_TEXT_NAME": {
+        "english": "Weather:",
+        "arabic": "طقس:",
+        "czech": "Počasí:",
+        "newlang": "untranslated"
+    },
+    "CMD_WIPE_TITLE": {
+        "english": "Dates for past and future WIPEs",
+        "arabic": "تواريخ للوايـبات الماضـية و المستقـبلية",
+        "czech": "Datumy pro minulé a budoucí WIPE",
+        "newlang": "untranslated"
+    },
+    "CMD_WIPE_LASTWIPE": {
+        "english": "Last wipe:",
+        "arabic": "اخـر وايـب:",
+        "czech": "Minulý wipe:",
+        "newlang": "untranslated"
+    },
+    "CMD_WIPE_NEXTWIPE": {
+        "english": "Next wipe:",
+        "arabic": "الوايـب الجـاي:",
+        "czech": "Další wipe:",
+        "newlang": "untranslated"
+    },
+    "CMD_TIME_TITLE": {
+        "english": "Current time in Tarkov",
+        "arabic": "الوقت الحالي في تاركوف:",
+        "czech": "Aktuální čas v Tarkově",
+        "newlang": "untranslated"
+    },
+    "CMD_TIME_TEXT_LEFT": {
+        "english": "Left:",
+        "arabic": "اليسـار:",
+        "czech": "Levý:",
+        "newlang": "untranslated"
+    },
+    "CMD_TIME_TEXT_RIGHT": {
+        "english": "Right:",
+        "arabic": "يميـن:",
+        "czech": "Pravý:",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_WORKING": {
+        "english": "working",
+        "arabic": "الخدمه متاحه",
+        "czech": "funkční",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_PROBLEMS": {
+        "english": "problems",
+        "arabic": "الخدمـه غير متاحـه",
+        "czech": "problémy",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_POSSIBLEPROBLEMS": {
+        "english": "possible problems",
+        "arabic": "احتماليـة وجـود مشكلـه بالخـدمه",
+        "czech": "možné problémy",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_SERVERSONUPDATE": {
+        "english": "servers on update",
+        "arabic": "جـاري تحديـث السيـرفرات",
+        "czech": "probíhá aktualizace",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_TITLE": {
+        "english": "Escape From Tarkov Status",
+        "arabic": "حالـة لعبـة الهـروب من تـاركوف",
+        "czech": "Stav Escape From Tarkov",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_TEXT_WEB": {
+        "english": "Web:",
+        "arabic": "الموقـع الرئيسـي:",
+        "czech": "Web:",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_TEXT_FORUM": {
+        "english": "Forum:",
+        "arabic": "منـتدى اللعبـة:",
+        "czech": "Fórum:",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_TEXT_AUTH": {
+        "english": "Authentication:",
+        "arabic": "التـاكد من الهـوية:",
+        "czech": "Přihlašování:",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_TEXT_LAUNCHER": {
+        "english": "Launcher:",
+        "arabic": "مشـغل اللعـبة:",
+        "czech": "Spouštěč:",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_TEXT_INVLOBBY": {
+        "english": "Invites (lobby):",
+        "arabic": "دعـوة الأصـدقاء:",
+        "czech": "Pozvánky (lobby):",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_TEXT_TRADING": {
+        "english": "Trading:",
+        "arabic": "حالـة التجـار:",
+        "czech": "Obchodování:",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_TEXT_MATCH": {
+        "english": "Matchmaking:",
+        "arabic": "حالـة البحـث عن اللاعبيـن:",
+        "czech": "Vyhledávání raidů:",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_TEXT_FRIENDSMSG": {
+        "english": "Friends and Msg:",
+        "arabic": "الأصـدقاء والرسائـل:",
+        "czech": "Přátelé a zprávy:",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_TEXT_INVOPERATIONS": {
+        "english": "Inventory operations:",
+        "arabic": "حالـة المخبـأ:",
+        "czech": "Práce s inventářem:",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_DATAC": {
+        "english": "Data center #1",
+        "arabic": "مركـز البيـانات #1",
+        "czech": "Data center #1",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_DATACC": {
+        "english": "Data center #2",
+        "arabic": "مركـز البيـانات #2",
+        "czech": "Data center #2",
+        "newlang": "untranslated"
+    },
+    "CMD_STATUS_DATACCC": {
+        "english": "Data center #3",
+        "arabic": "مركـز البيـانات #3",
+        "czech": "Data center #3",
+        "newlang": "untranslated"
+    },
+    "CMD_TRADERS_TITLE": {
+        "english": "Time until traders restock",
+        "arabic": "Time until traders restock",
+        "czech": "Čas do resetu obchodníků",
+        "newlang": "untranslated"
+    },
+    "CMD_TRADERS_TEXT_RESETRECENTLY": {
+        "english": "Recently restocked",
+        "arabic": "Recently restocked",
+        "czech": "Reset nedávno",
+        "newlang": "untranslated"
+    },
+    "CMD_PRICE_TITLE": {
+        "english": "Item price",
+        "arabic": "سعر العنصر",
+        "czech": "Cena předmětu",
+        "newlang": "untranslated"
+    },
+    "CMD_PRICE_TEXT_NAME": {
+        "english": "Name:",
+        "arabic": "اسم:",
+        "czech": "Název:",
+        "newlang": "untranslated"
+    },
+    "CMD_PRICE_TEXT_TRADERPRICE": {
+        "english": "Trader price:",
+        "arabic": "سعـر التاجر:",
+        "czech": "Cena u obchodníka:",
+        "newlang": "untranslated"
+    },
+    "CMD_PRICE_TEXT_FLEAMARKET": {
+        "english": "FleaMarket:",
+        "arabic": "السوق السوداء:",
+        "czech": "Bleší trh:",
+        "newlang": "untranslated"
+    },
+    "CMD_PRICE_TEXT_AVERAGE1DAY": {
+        "english": "AVG 1 day:",
+        "arabic": "متوسط ​​يوم واحد:",
+        "czech": "Průměr 1 den",
+        "newlang": "untranslated"
+    },
+    "CMD_PRICE_TEXT_AVERAGE7DAYS": {
+        "english": "AVG 7 days:",
+        "arabic": "متوسط ​​7 أيام:",
+        "czech": "Průměr za 7 dní",
+        "newlang": "untranslated"
+    },
+    "CMD_PRICE_TEXT_PRICEUPDATED": {
+        "english": "Price updated",
+        "arabic": "تم تحديث السعر",
+        "czech": "Cena aktualizována",
+        "newlang": "untranslated"
+    },
+    "CMD_PRICE_LANG": {
+        "english": "en",
+        "arabic": "ar",
+        "czech": "cs",
+        "newlang": "untranslated"
+    },
+    "CMD_PRICE_TEXT_SLOTS": {
+        "english": "Slots:",
+        "arabic": "Slots:",
+        "czech": "Políček:",
+        "newlang": "untranslated"
+    },
+    "CMD_PRICE_TEXT_PRICEPERSLOT": {
+        "english": "Price per slot:",
+        "arabic": "Price per slot:",
+        "czech": "Cena za pole:",
+        "newlang": "untranslated"
+    },
+    "CMD_HELP_TITLE": {
+        "english": "Available commands",
+        "arabic": "الأوامـر المـتوفرة",
+        "czech": "Dostupné příkazy",
+        "newlang": "untranslated"
+    },
+    "CMD_HELP_TEXT_PREFIX": {
+        "english": "Prefix:",
+        "arabic": "اختصـار:",
+        "czech": "Prefix:",
+        "newlang": "untranslated"
+    },
+    "CMD_HELP_TEXT_Commands": {
+        "english": "Commands:",
+        "arabic": "الأوامر:",
+        "czech": "Příkazy:",
+        "newlang": "untranslated"
+    },
+    "CMD_HELP_CMD_STATUS_DESCRIPTION": {
+        "english": "Current status of EFT services\n",
+        "arabic": "الوضـع الحالـي للخـدمات\n",
+        "czech": "Současný stav služeb EFT\n",
+        "newlang": "untranslated\n"
+    },
+    "CMD_HELP_CMD_TIME_DESCRIPTION": {
+        "english": "Current time in EFT\n",
+        "arabic": "الـوقت الحـالي في تـاركوف\n",
+        "czech": "Aktuální čas v EFT\n",
+        "newlang": "untranslated\n"
+    },
+    "CMD_HELP_CMD_RANDOMGEAR_DESCRIPTION": {
+        "english": "Random gear, map etc.\n",
+        "arabic": "معدات عشوائية ، خريطة ، إلخ\n",
+        "czech": "Náhodné vybavení, mapa atd.\n",
+        "newlang": "untranslated"
+    },
+    "CMD_GOONS_TEXT_MAP": {
+        "english": "Map:",
+        "arabic": "الخريـطة:",
+        "czech": "Mapa:",
+        "newlang": "untranslated"
+    },
+    "CMD_GOONS_TEXT_NUMBEROFREPORTS": {
+        "english": "Number of reports:",
+        "arabic": "عدد التقـارير:",
+        "czech": "Počet hlášení:",
+        "newlang": "untranslated"
+    },
+    "CMD_GOONS_TEXT_LASTREPORT": {
+        "english": "Last report:",
+        "arabic": "اخـر تحديث:",
+        "czech": "Poslední nahlášení:",
+        "newlang": "untranslated"
+    },
+    "CMD_GOONS_TITLE": {
+        "english": "Probable location of the Goons",
+        "arabic": "اخر تواجـد لزعماء القونـز تقريبا",
+        "czech": "Pravděpodobná lokace Goons",
+        "newlang": "untranslated"
+    }
+}
