@@ -18,3 +18,4 @@ Tarkov web with Goon Tracker, Twitch &amp; Discord bot and much more.
   * **Czech** - by ErrorCZE#9906
   * **English** - by ErrorCZE#9906
   * **Arabic** - by ↬🐁 dєvoo#0001
+  * **Polish** - by NOTO
